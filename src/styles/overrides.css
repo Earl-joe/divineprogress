@@ -1,0 +1,5 @@
+/*
+ * Not @import'd — Tailwind/Turbopack ordering conflicts with mid-file imports.
+ * Copy anything you add here into src/app/globals.css (e.g. after @layer base).
+ */
+/* Layer-specific overrides or print styles can live here when needed. */
