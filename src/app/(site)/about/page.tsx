@@ -109,7 +109,7 @@ export default function AboutPage() {
               progress and addressing challenges with honesty and care.&rdquo;
             </p>
             <p className="mt-6 text-sm font-semibold text-primary">
-              — Mr principal, can't remeber his name 
+              — Mr principal, cant remeber his name 
             </p>
           </MotionReveal>
         </div>

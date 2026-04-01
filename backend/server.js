@@ -38,7 +38,7 @@ app.use('/api/admin', adminRoutes)
 app.use('/api/student', studentRoutes)
 
 
-const PORT = 5001;
+const PORT = process.env.PORT || 5001;
 
 mongoose.connect(process.env.MONGO_URI)
   .then(() => console.log("Database connected successfully"))
